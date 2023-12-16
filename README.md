@@ -6,11 +6,13 @@ This repository contains a Streamlit web application that enables users to inter
 
 ## Demo
 
+![Chat_With_CSv](https://github.com/Gokulachalam/test/assets/89055461/83e80e96-b2c2-49ca-93df-0b9e722e808a)
 
 
 
+## Dataset
 
-
+Here I have taken the iris dataset for testing this application. you can upload any csv you want 
 
 
 ## Table of Contents
