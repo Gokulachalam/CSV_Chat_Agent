@@ -12,6 +12,7 @@ This repository contains a Streamlit web application that enables users to inter
 
 
 
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
