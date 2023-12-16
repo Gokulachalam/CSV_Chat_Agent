@@ -10,6 +10,12 @@ This repository contains a Streamlit web application that enables users to inter
 
 
 
+## Development Environment
+
+Linux ----> Debian 12
+
+
+
 ## Dataset
 
 Here I have taken the iris dataset for testing this application. you can upload any csv you want 
